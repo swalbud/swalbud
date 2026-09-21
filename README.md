@@ -144,8 +144,11 @@ I'm currently focused on improving the way I structure projects, separating syst
 ## Contact
 
 GitHub: [@Swalbud](https://github.com/Swalbud)
+
 Reddit: Swalbud
+
 Discord: Swalbud
+
 Email: swalbud@proton.me
 
 For project-related information, the best place to start is one of my repositories.
