@@ -87,18 +87,6 @@ I'm currently focused on improving the way I structure projects, separating syst
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Swalbud&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swalbud&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="180"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
