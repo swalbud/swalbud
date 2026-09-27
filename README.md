@@ -1,46 +1,41 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=180&section=header&text=Mubasshir%20Hossain&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Roblox%20Developer%20%7C%20Programmer&descAlignY=58&descSize=17" width="100%"/>
-
-</div>
-
 # Mubasshir Hossain
 
-**Swalbud** on GitHub.
+**C++ Developer & Programmer**
 
-I'm a Roblox developer and programmer primarily working with **Luau**, with additional experience in **Python** and **C++**.
+I’m a programmer primarily focused on **C++**, with an interest in systems programming, performance, and understanding how software works closer to the machine.
 
-Most of my development work revolves around Roblox: writing gameplay systems, scripting mechanics, building reusable modules, and experimenting with different approaches to game architecture. Outside of Roblox, I use Python and C++ for tools, experiments, and general programming.
-
-I prefer building things that are actually useful over writing projects just to fill a repository.
+I enjoy building things from the ground up, experimenting with different approaches, and writing code that is practical rather than creating projects just to fill a repository.
 
 ---
 
 ## Development
 
-### Roblox
+### C++
 
-My main area of development is Roblox and Luau.
+C++ is my primary language and the main area I spend time developing in.
 
-I work on things such as:
+I work with things such as:
 
-* Gameplay systems
-* Server/client architecture
-* Reusable modules
-* UI and interaction systems
-* Game mechanics
-* Developer tooling
-* Prototyping and technical experiments
+* Systems programming
+* Object-oriented programming
+* Data structures & algorithms
+* Memory management
+* File handling
+* Command-line applications
+* Performance-focused code
+* Small tools and experiments
 
-I'm particularly interested in making Roblox projects easier to maintain as they become larger, rather than keeping everything in a single collection of scripts.
+I’m particularly interested in understanding what happens under the hood instead of relying on abstractions without knowing how they work.
 
 ### Python
 
-I use Python when a project calls for a higher-level language, particularly for tooling, automation, utilities, and experiments.
+I also use Python when a project benefits from a higher-level language, especially for:
 
-### C++
-
-C++ is mainly where I explore lower-level programming and concepts that are useful beyond game scripting.
+* Automation
+* Utilities
+* Prototyping
+* Scripting
+* Experiments
 
 ---
 
@@ -48,7 +43,7 @@ C++ is mainly where I explore lower-level programming and concepts that are usef
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=lua,python,cpp,git,github,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode&theme=dark&perline=5" />
 
 </div>
 
@@ -56,10 +51,10 @@ C++ is mainly where I explore lower-level programming and concepts that are usef
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Roblox-Luau-111111?style=for-the-badge&logo=roblox&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Development-111111?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-Development-111111?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Development-111111?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-Version%20Control-111111?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Projects-111111?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -68,44 +63,48 @@ C++ is mainly where I explore lower-level programming and concepts that are usef
 ## Current Focus
 
 ```text
-Roblox / Luau
-    ├── Game systems
-    ├── Architecture
-    ├── Reusable modules
-    └── Development tooling
-
-Python
-    ├── Utilities
-    ├── Automation
-    └── Experiments
-
 C++
-    └── General systems programming
+├── Systems programming
+├── Data structures
+├── Memory management
+├── Performance
+└── Technical experiments
+
+Programming
+├── Clean architecture
+├── Problem solving
+├── Algorithms
+└── Learning how things work internally
 ```
 
-I'm currently focused on improving the way I structure projects, separating systems cleanly, and writing code that remains understandable when a project grows.
+Right now, I’m focused on improving my C++ fundamentals, writing cleaner systems, and building projects that help me understand programming at a deeper level.
 
 ---
 
-## Contribution Activity
+## What I Build
 
-<div align="center">
+I’m more interested in **useful software and interesting problems** than making projects for the sake of having them.
 
-<img src="https://streak-stats.demolab.com/?user=Swalbud&theme=github-dark-blue&hide_border=true" width="70%"/>
+Some of the things you may find in my repositories include:
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swalbud&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
-</div>
+* C++ applications
+* Programming experiments
+* Utilities and tools
+* Algorithm implementations
+* Small systems-oriented projects
+* Projects built to explore a specific concept
 
 ---
 
-## Profile
+## Philosophy
+
+> Write code to understand it, not just to make it work.
+
+I prefer simple designs, readable code, and learning from the implementation rather than hiding everything behind layers of abstraction.
+
+---
+
+## GitHub
 
 <div align="center">
 
@@ -133,11 +132,11 @@ I'm currently focused on improving the way I structure projects, separating syst
 
 GitHub: [@Swalbud](https://github.com/Swalbud)
 
-Reddit: Swalbud
-
 Discord: Swalbud
 
-Email: swalbud@proton.me
+Reddit: Swalbud
+
+Email: [swalbud@proton.me](mailto:swalbud@proton.me)
 
 For project-related information, the best place to start is one of my repositories.
 
@@ -145,6 +144,6 @@ For project-related information, the best place to start is one of my repositori
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:111827&height=100&section=footer" width="100%"/>
+**C++ • Systems • Programming**
 
 </div>
